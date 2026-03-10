@@ -1,0 +1,18 @@
+{
+  "headers": [
+    {
+      "source": "/info.json",
+      "headers": [
+        { "key": "Content-Type",  "value": "application/json" },
+        { "key": "Cache-Control", "value": "public, max-age=300" }
+      ]
+    },
+    {
+      "source": "/releases/(.*)\\.zip",
+      "headers": [
+        { "key": "Content-Type",  "value": "application/zip" },
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
+      ]
+    }
+  ]
+}
