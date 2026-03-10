@@ -1,0 +1,15 @@
+{
+  "name":         "GF Notification Proxy",
+  "slug":         "gf-notification-proxy",
+  "version":      "1.0.0",
+  "author":       "Your Name",
+  "download_url": "REPLACE_WITH_VERCEL_URL/releases/gf-notification-proxy-1.0.0.zip",
+  "requires":     "6.0",
+  "tested":       "6.7",
+  "requires_php": "8.0",
+  "last_updated": "2026-03-10",
+  "sections": {
+    "description": "Allows Zoho CRM agents to manage Gravity Forms notification recipients directly from CRM.",
+    "changelog":   "<h4>1.0.0</h4><ul><li>Initial release</li></ul>"
+  }
+}
