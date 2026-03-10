@@ -3,7 +3,7 @@
   "slug":         "gf-notification-proxy",
   "version":      "1.0.0",
   "author":       "Your Name",
-"download_url": "https://gf-notification-proxy-updates.vercel.app/releases/gf-notification-proxy-1.0.0.zip",
+  "download_url": "https://gf-notification-proxy-updates.vercel.app/releases/gf-notification-proxy-1.0.0.zip",
   "requires":     "6.0",
   "tested":       "6.7",
   "requires_php": "8.0",
